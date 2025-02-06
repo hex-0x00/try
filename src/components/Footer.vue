@@ -5,8 +5,7 @@
       >{{ version }}<i class="pi pi-github vertical-align-middle m-2"></i>AGPL-3.0 Licensed</a
     >
     /
-    <a :href="privacyUrl" target="_blank" rel="noopener">Privacy Policy</a>
-    / Copyright © 2023 Jim60105
+    <a :href="privacyUrl" target="_blank" rel="noopener"></a>
   </footer>
 </template>
 
